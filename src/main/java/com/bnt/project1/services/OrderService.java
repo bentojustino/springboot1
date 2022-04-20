@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.bnt.project1.entities.Order;
-import com.bnt.project1.entities.Order;
 import com.bnt.project1.repositories.OrderRepository;
 
 @Service
